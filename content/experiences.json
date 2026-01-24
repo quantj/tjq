@@ -1,0 +1,66 @@
+[
+  {
+    "company": "DATATONIC (FORMERLY MONTREAL ANALYTICS)",
+    "role": "Senior Data Product Owner/Delivery Manager",
+    "date": "2021 - 2025",
+    "description": "Led 40+ global client engagements across analytics engineering, data product development, and team enablement. Defined and executed product roadmaps for cloud-based analytics products, working closely with engineering and business stakeholders. Led cross-functional teams in fintech, martech, and operational industries to deliver new data capabilities, grow and optimize existing data platforms. Spearheaded discovery workshops to align business goals with data product opportunities, resulting in measurable improvements in client KPIs. Developed internal best practices for product delivery and onboardings; mentored junior Product Owners to grow team maturity. Supported strategic partnerships with dbt Labs and Mixpanel, aligning product integration initiatives with client adoption and success. Leveraged tools like Fivetran, dbt, Snowflake/BigQuery & Looker to modernize data stacks.",
+    "links": [
+      {
+        "text": "Fivetran Article: Framework for Data Product Owners",
+        "url": "https://www.fivetran.com/blog/a-framework-for-understanding-and-evaluating-data-product-owners"
+      },
+      {
+        "text": "Blog: Making the Most of Your Data Team",
+        "url": "https://blog.montrealanalytics.com/making-the-most-of-your-data-team-questions-to-ask-when-prioritizing-projects-f894b152931"
+      },
+      {
+        "text": "Case Study: UFL - Unified Data Platform",
+        "url": "https://datatonic.com/case-studies/united-football-league-looker/"
+      },
+      {
+        "text": "Case Study: Loop Returns - 30% Cost Reduction",
+        "url": "https://datatonic.com/case-studies/loop-returns-looker-bigquery/"
+      },
+      {
+        "text": "Case Study: Gopuff - Delivering Better Data",
+        "url": "https://datatonic.com/case-studies/delivering-better-data-for-gopuff/"
+      }
+    ]
+  },
+  {
+    "company": "VALTECH (FORMERLY ABSOLUNET)",
+    "role": "Scrum Master",
+    "date": "2018 - 2021",
+    "description": "Quebec's powerhouse eCommerce service and web agency, serving B2C & B2B clients to grow their online presence. Coached and scaled Agile practices across three marketing and web teams, improving velocity and cross-team collaboration. Partnered with cross-functional stakeholders (marketing, web, BI) to define project scopes and product enhancements tied to business outcomes. Led Black Friday campaign analytics initiatives, building data tracking and reporting tools to optimize real-time campaign performance."
+  },
+  {
+    "company": "REOL/CITYREALTY",
+    "role": "Project Manager/Scrum Master",
+    "date": "2015 - 2018",
+    "description": "New York City's oldest MLS real estate service. Defined product strategy and roadmap for a real estate SaaS platform serving millions of active home seekers across New York City. Delivered key consumer-facing features (Saved Searches, CMS tools, blog publishing platform) by partnering with engineering, design, and sales. Led A/B testing initiatives to optimize user experience, driving engagement and retention through iterative feature launches. Designed and implemented streamlined reporting systems to empower executive teams with daily operational insights."
+  },
+  {
+    "company": "HOST KICK",
+    "role": "Head of Interior Design",
+    "date": "2016 - 2017",
+    "description": "Montreal startup in Rental Property Management. Created furniture packages and worked with clients to design/prepare their homes for Airbnb guests."
+  },
+  {
+    "company": "CITYREALTY",
+    "role": "Content Manager",
+    "date": "2014 - 2015",
+    "description": "New York City's oldest MLS aggregator and real estate service. Created database of NYC luxury condo floor plans. Built up and managed database of thousands of residential buildings. Created 3D content for marketing and site content purposes.",
+    "links": [
+      {
+        "text": "ArchDaily: NYC Skyline in 2018",
+        "url": "https://www.archdaily.com/569136/check-out-these-images-of-new-york-s-skyline-in-2018"
+      }
+    ]
+  },
+  {
+    "company": "FREELANCE",
+    "role": "3D Designer",
+    "date": "2014 - 2018",
+    "description": "Various residential and commercial projects. Designed and created 3D mock ups for homes and commercial spaces. Highlights included re-creating Montreal's venues in 3D for event planning and designing a rock climbing gym."
+  }
+]

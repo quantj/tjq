@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Find Wild Coffee",
+    "category": "Side Project",
+    "description": "Geolocation web app that helps users discover independent cafés by integrating public APIs, data automation, and clean UX design. Built to solve the problem of finding quality local coffee shops in an age of chain dominance.",
+    "tags": ["JavaScript", "APIs", "Geolocation", "UX Design", "Data Automation"],
+    "link": "case-study.html?project=find-wild-coffee",
+    "slug": "find-wild-coffee",
+    "external_link": "https://findwildcoffee.com"
+  },
+  {
+    "title": "Data Product Framework",
+    "category": "Thought Leadership",
+    "description": "Published framework for understanding and evaluating Data Product Owners, featured on Fivetran's blog. Established best practices for product ownership in modern data teams across analytics engineering roles.",
+    "tags": ["Product Management", "Data Analytics", "Framework", "Leadership"],
+    "link": "https://www.fivetran.com/blog/a-framework-for-understanding-and-evaluating-data-product-owners",
+    "slug": "data-product-framework"
+  },
+  {
+    "title": "UFL Data Platform",
+    "category": "Client Work",
+    "description": "Led the implementation of a unified data platform for the United Football League, enabling real-time analytics and business intelligence across operations. Delivered measurable improvements in data accessibility and decision-making speed.",
+    "tags": ["Product Strategy", "Google Cloud", "Looker", "BigQuery", "Sports Analytics"],
+    "link": "https://datatonic.com/case-studies/united-football-league-looker/",
+    "slug": "ufl-data-platform"
+  }
+]
