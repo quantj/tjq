@@ -1,103 +1,126 @@
 # Find Wild Coffee
-## Local Cafe Discovery Platform
+## Mapping Montreal's Independent Cafe Scene
 
-**Project Type:** Side Project | **Role:** Product Owner & Developer | **Year:** 2024
+**Project Type:** Side Project | **Role:** Solo Creator (Design & Development) | **Year:** 2025
 
 ---
 
 ## The Challenge
 
-In an age of chain coffee dominance, discovering quality independent cafés has become increasingly difficult. Existing solutions like Google Maps prioritize larger chains and paid placements, while coffee enthusiasts seek authentic, local experiences. The problem space included:
+Finding quality independent cafes in Montreal was surprisingly difficult. Google Maps has limitations that frustrated the coffee discovery experience:
 
-* **Discovery Gap**: No dedicated platform for finding independent coffee shops
-* **Data Fragmentation**: Coffee shop information scattered across multiple sources
-* **Poor User Experience**: Generic map interfaces not optimized for coffee discovery
-* **Mobile-First Need**: Users discovering cafés while on the go
+* **Limited View**: Shows only a small section at a time, making it hard to see the full landscape
+* **Chain Clutter**: Results include large chains alongside independent shops
+* **No Curation**: No way to filter for quality independent cafes specifically
+* **Discovery Problem**: Coffee enthusiasts need a comprehensive view of Montreal's independent cafe scene
+
+The goal was simple: create a map showing all independent cafes in Montreal, minus the chains.
 
 ---
 
 ## The Solution
 
-Built a geolocation-based web application that helps users discover independent cafés by integrating public APIs with data automation and clean UX design. The platform focuses on:
+Built a comprehensive map of 600+ independent cafes across Montreal, designed for easy discovery and exploration.
 
 ### Core Features
 
-**Geolocation-First Design**
-* Automatic user location detection
-* Real-time proximity-based café recommendations
-* Interactive map interface for spatial discovery
+**Comprehensive Coverage**
+* 600+ independent cafes mapped across Montreal
+* Chain cafes explicitly excluded
+* Automated data collection and updates
 
-**Data Integration**
-* Public API integration for café information
-* Automated data validation and enrichment
-* Regular data refresh cycles to maintain accuracy
+**Smart Organization**
+* Cafes organized by neighborhood for easier browsing
+* Featured section highlighting the best cafes
+* Clean, map-based interface for spatial discovery
 
-**Clean, Fast UX**
-* Mobile-responsive design
-* Sub-second load times
-* Minimal, distraction-free interface
-* Progressive web app capabilities
+**Built for Sustainability**
+* Fully automated data pipeline
+* Designed to run within free tier limits
+* Minimal ongoing maintenance required
 
 ---
 
 ## Approach
 
-### Product Strategy
+### The Data Challenge
 
-1. **User Research**: Interviewed 15+ coffee enthusiasts to understand discovery patterns
-2. **MVP Definition**: Focused on core geolocation + café data without feature bloat
-3. **Iterative Development**: Shipped early, gathered feedback, iterated quickly
-4. **Data First**: Prioritized data quality and freshness over quantity
+The biggest technical challenge was data collection. To get comprehensive coverage of Montreal's cafe scene, I built a custom data ingestion pipeline:
 
-### Technical Architecture
-
-Built with modern web technologies prioritizing:
-* **Performance**: Lightweight JavaScript, optimized assets
-* **Reliability**: Error handling, fallback mechanisms
-* **Scalability**: API design supporting growth
-* **Maintainability**: Clean code, documentation
+**Strategy:**
+1. Used Google Maps API as the data source
+2. Created a search grid system covering all of Montreal
+3. Made multiple API calls to systematically capture every area
+4. Filtered and cleaned data to remove chains and duplicates
 
 **Tech Stack:**
-* Frontend: Vanilla JavaScript, HTML5, CSS3
-* APIs: Geolocation API, Third-party café data
-* Deployment: Static hosting for speed and cost-efficiency
+* **Data Pipeline**: BigQuery for storage and analysis
+* **Automation**: Apps Script for scheduled data collection
+* **Visualization**: Leaflet for interactive maps
+* **Constraint**: Everything runs on free tiers (except annual domain cost)
+
+### Product Decisions
+
+With 600+ cafes, the key challenge was information architecture:
+
+**Solution: Two-Level Organization**
+1. **Neighborhood Breakdown**: Group cafes by Montreal neighborhoods for easier browsing
+2. **Featured Section**: Curate and highlight the best cafes for quick recommendations
+
+This structure solved the "too much data" problem while maintaining discoverability.
 
 ---
 
 ## Results & Impact
 
-### Metrics
+### Current Status
 
-* **Launch**: Successfully deployed and operational
-* **User Experience**: Average page load under 2 seconds
-* **Mobile Optimization**: Fully responsive across devices
-* **Data Coverage**: Comprehensive café database with automated updates
+* **Live**: Fully operational at findwildcoffee.com
+* **Automated**: Runs with minimal maintenance
+* **Cost-Efficient**: Under $50/year (domain only)
+* **Coverage**: 600+ independent Montreal cafes
+* **Stage**: Experimental POC, not heavily promoted
 
-### Key Learnings
+### Technical Learnings
 
-**Product Management Insights:**
-1. **Start Simple**: MVP with geolocation + data beat feature-rich alternatives
-2. **Data Quality Matters**: Accurate, fresh data trumps volume
-3. **Mobile-First Reality**: 80%+ users discover cafés on mobile devices
-4. **User Feedback Loop**: Early users provided invaluable refinement insights
+**Data Engineering:**
+* Search grid methodology successfully captured comprehensive coverage
+* API rate limiting and free tier constraints required creative batching
+* Automation reduced manual work from hours to minutes
 
-**Technical Takeaways:**
-1. **Performance is UX**: Fast load times directly impacted user satisfaction
-2. **Progressive Enhancement**: Core functionality works everywhere, enhancements for modern browsers
-3. **API Design**: Thoughtful API integration reduced maintenance burden
-4. **Automation Pays Off**: Data automation saved hours of manual work
+**Product Strategy:**
+* Neighborhood organization proved effective for large datasets
+* Featured section addressed the "paradox of choice" problem
+* MVP approach validated concept before scaling
+
+### What's Next
+
+The project is live and functional, but could be enhanced with:
+* Advanced search and filter functions
+* User-submitted reviews or ratings
+* Mobile app for on-the-go discovery
+* Expansion to other cities
 
 ---
 
-## Product Philosophy Applied
+## Why This Project Matters
 
-This project demonstrates core PM principles:
+As a PM, this project demonstrates:
 
-* **Customer Focus**: Built for real user needs, not hypothetical features
-* **Data-Driven**: Validated assumptions with user research and usage data
-* **Iterative Delivery**: Shipped early, improved continuously
-* **Technical Acumen**: Made informed technical trade-offs for business goals
-* **Creative Problem-Solving**: Leveraged existing APIs creatively rather than building from scratch
+**Technical Depth**
+* Built end-to-end: data pipeline, backend automation, frontend interface
+* Comfortable with APIs, databases, and web development
+* Can prototype and ship independently
+
+**Product Thinking**
+* Identified a real user problem and built a focused solution
+* Made deliberate trade-offs (free tier constraints, MVP scope)
+* Designed information architecture for usability at scale
+
+**Data Analytics Capability**
+* Designed and implemented automated data collection pipeline
+* Worked with APIs, BigQuery, and data transformation
+* Built sustainable, scalable data systems
 
 ---
 
