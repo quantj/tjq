@@ -18,6 +18,18 @@
     "url": "https://www.credly.com/badges/08b243b7-94ef-4247-9dfc-85ccd3600827"
   },
   {
+    "name": "Mixpanel Expert",
+    "issuer": "Mixpanel",
+    "year": "2024",
+    "url": ""
+  },
+  {
+    "name": "dbt Fundamentals",
+    "issuer": "dbt Labs",
+    "year": "2023",
+    "url": ""
+  },
+  {
     "name": "GCP Digital Leader",
     "issuer": "Google Cloud",
     "year": "2023",
@@ -34,5 +46,23 @@
     "issuer": "Scrum.org",
     "year": "2022",
     "url": "https://www.credly.com/badges/7b4e7c24-9c39-414e-9433-ff4d52df77bb"
+  },
+  {
+    "name": "ICP-ACC",
+    "issuer": "ICAgile",
+    "year": "2022",
+    "url": ""
+  },
+  {
+    "name": "PSM I",
+    "issuer": "Scrum.org",
+    "year": "2021",
+    "url": "https://www.credly.com/badges/82e5a000-2332-4ec2-ba2a-99861531d216"
+  },
+  {
+    "name": "PSPO I",
+    "issuer": "Scrum.org",
+    "year": "2021",
+    "url": "https://www.credly.com/badges/20fb0e00-0839-43f9-8178-e727ce704b9a"
   }
 ]
