@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "title": "Product Leadership",
+      "skills": [
+        "Product Strategy & Roadmapping",
+        "Cross-Functional Team Leadership",
+        "Agile & Scrum Methodologies",
+        "Stakeholder Management",
+        "Customer Discovery",
+        "OKRs & Prioritization"
+      ]
+    },
+    {
+      "title": "Data & Analytics",
+      "skills": [
+        "Business Intelligence Strategy",
+        "SQL & Data Visualization",
+        "Modern Data Stack (BigQuery, dbt, Looker)",
+        "Product Metrics & KPIs",
+        "A/B Testing & Experimentation",
+        "Data Storytelling"
+      ]
+    },
+    {
+      "title": "Technical Acumen",
+      "skills": [
+        "Google Cloud Platform",
+        "Fivetran, Snowflake, dbt",
+        "API & System Architecture",
+        "Software Development Lifecycle",
+        "Analytics Implementation",
+        "Technical Documentation"
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "skills": [
+        "Looker, BigQuery, Snowflake",
+        "Jira, Confluence, Linear",
+        "Figma, Miro, Whimsical",
+        "Google Analytics, Mixpanel",
+        "Pendo, FullStory",
+        "GitHub, Git"
+      ]
+    }
+  ]
+}
