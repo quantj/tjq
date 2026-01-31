@@ -1,9 +1,10 @@
-I work best when collaborating across engineering, UX, and go-to-market teams, turning ideas into real-world solutions. Before finding my path in tech, I started in interior design and 3D visualization, which taught me early the value of thoughtful space, good design, and building with intention. That creative mindset still fuels how I approach product work today.
+Before tech, I designed spaces—interiors and 3D environments. That background taught me to think in systems, sweat the details, and build things people actually want to use. It's an unconventional path to product management, but it's why I approach roadmaps like blueprints and treat user experience as non-negotiable.
 
-Outside of work, I'm a 3D printing hobbyist, a rock climber, a Google Sheet fan and a strong believer that creativity is a necessary tool for solving real problems and building things that last.
+Most of my work happens in the trenches with engineering teams, turning ambiguity into working products. I occasionally write about what I've learned along the way.
+
+Outside work: lifelong rock climber, 3D hobbyist, and a Google Sheets loyalist.
 
 ## Contact Details
 
-**Location:** Montreal, QC
 **Email:** [quan@tjq.ca](mailto:quan@tjq.ca)
 **LinkedIn:** [linkedin.com/in/quantj](https://www.linkedin.com/in/quantj)
