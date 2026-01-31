@@ -3,7 +3,7 @@
     "company": "DATATONIC (FORMERLY MONTREAL ANALYTICS)",
     "role": "Senior Data Product Owner/Delivery Manager",
     "date": "2021 - 2025",
-    "description": "Led 40+ global client engagements across analytics engineering, data product development, and team enablement. Defined and executed product roadmaps for cloud-based analytics products, working closely with engineering and business stakeholders. Led cross-functional teams in fintech, martech, and operational industries to deliver new data capabilities, grow and optimize existing data platforms. Spearheaded discovery workshops to align business goals with data product opportunities, resulting in measurable improvements in client KPIs. Developed internal best practices for product delivery and onboardings; mentored junior Product Owners to grow team maturity. Supported strategic partnerships with dbt Labs and Mixpanel, aligning product integration initiatives with client adoption and success. Leveraged tools like Fivetran, dbt, Snowflake/BigQuery & Looker to modernize data stacks.",
+    "description": "Led product strategy and delivery across 40+ client engagements for cloud-based analytics products in fintech, sports, telecom and SaaS. Defined roadmaps and partnered with engineering and business stakeholders to ship data platforms that drove measurable client outcomes. Built frameworks for data product ownership (published via Fivetran), established internal delivery standards, and mentored product team. Managed strategic partnerships with dbt Labs and Mixpanel to align product integrations with adoption goals. Technical stack: Modern data platforms (BigQuery, Snowflake, dbt, Fivetran, Looker).",
     "links": [
       {
         "text": "Fivetran Article: Framework for Data Product Owners",
@@ -31,25 +31,25 @@
     "company": "VALTECH (FORMERLY ABSOLUNET)",
     "role": "Scrum Master",
     "date": "2018 - 2021",
-    "description": "Quebec's powerhouse eCommerce service and web agency, serving B2C & B2B clients to grow their online presence. Coached and scaled Agile practices across three digital marketing teams, improving velocity and cross-team collaboration. Partnered with cross-functional stakeholders (marketing, web, BI) to define project scopes and product enhancements tied to business outcomes. Led Black Friday campaign analytics initiatives, building data tracking and reporting tools to optimize real-time campaign performance."
+    "description": "Scaled agile product delivery across three digital marketing teams in eCommerce. Partnered with cross-functional stakeholders to define roadmaps and prioritize enhancements that tied to business improvements. Led Black Friday analytics initiatives, allowing for a reporting tools that optimized real-time campaign performance."
   },
   {
     "company": "REOL/CITYREALTY",
     "role": "Project Manager/Scrum Master",
     "date": "2015 - 2018",
-    "description": "New York City's oldest MLS real estate service. Defined product strategy and roadmap for a real estate SaaS platform serving millions of active home seekers across New York City. Delivered key consumer-facing features (Saved Searches, CMS tools, blog publishing platform) by partnering with engineering, design, and sales. Led A/B testing initiatives to optimize user experience, driving engagement and retention through iterative feature launches. Designed and implemented streamlined reporting systems to empower executive teams with daily operational insights."
+    "description": "Defined product strategy and roadmap for a real estate SaaS platform serving millions of NYC home seekers. Shipped consumer-facing features (Saved Searches, CMS, publishing tools) by partnering with engineering, design, and sales. Ran A/B testing initiatives to drive engagement and retention. Built reporting systems that gave executive teams real-time operational insights."
   },
   {
     "company": "HOST KICK",
     "role": "Head of Interior Design",
     "date": "2016 - 2017",
-    "description": "Montreal startup in Rental Property Management. Created furniture packages and worked with clients to design/prepare their homes for Airbnb guests."
+    "description": "Led interior design for a rental property management startup. Created furniture systems and worked with clients to optimize their spaces for Airbnb guests—early lessons in designing for user experience and operational constraints."
   },
   {
     "company": "CITYREALTY",
     "role": "Content Manager",
     "date": "2014 - 2015",
-    "description": "New York City's oldest MLS aggregator and real estate service. Created database of NYC luxury condo floor plans. Built up and managed database of thousands of residential buildings. Created 3D content for marketing and site content purposes.",
+    "description": "Built and managed databases of NYC luxury residential properties. Created 3D architectural visualizations for marketing and editorial content, including renderings featured in ArchDaily's NYC skyline coverage.",
     "links": [
       {
         "text": "ArchDaily: NYC Skyline in 2018",
@@ -61,6 +61,6 @@
     "company": "FREELANCE",
     "role": "3D Designer",
     "date": "2014 - 2018",
-    "description": "Various residential and commercial projects. Designed and created 3D mock ups for homes and commercial spaces. Highlights included re-creating Montreal's venues in 3D for event planning and designing a rock climbing gym."
+    "description": "Designed 3D environments for residential and commercial clients across Montreal and NYC. Projects included venue recreations for event planning and a new rock climbing gym design."
   }
 ]
