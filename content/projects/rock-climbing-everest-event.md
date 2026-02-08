@@ -30,7 +30,7 @@ I built a mobile web app that turned raw climbing logs into a social experience 
 
 **Team & Personal Stats**
 * Users can see their personal distance climbed in meters alongside their team's rank.
-* Added a "Fog of War" feature for the final 48 hours. This hid the top 5 scores so teams couldn't see exactly where their rivals were, which stopped the sandbagging and made the finish more exciting.
+* Added a "Fog of War" feature for the final 3 days. This hid the top 3 scores so teams couldn't see exactly where their rivals were, which stopped the sandbagging and made the finish more exciting.
 
 **End-of-Event Wrapped**
 * Created custom personas based on climbing habits. Users got titles like "The Night Owl" or "The Weekend Warrior."
