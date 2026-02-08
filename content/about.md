@@ -1,8 +1,8 @@
-Before tech, I designed interior spaces and 3D environments. That background taught me to think in systems, sweat the details, and build things people actually want to use. It's an unconventional path to product management, but it's why I approach roadmaps like blueprints and treat user experience as non-negotiable.
+Before tech, I worked in interior and 3D design. That experience shaped how I think about systems, details, and how people actually use things. It’s not a typical path into product, but it still shows up in how I work.
 
-Most of my work happens in the trenches with engineering teams, turning ambiguity into working products. I occasionally write about what I've learned along the way.
+These days I’m a product manager who likes getting into the weeds, especially when there’s a messy problem to clean up. I spend a lot of time deciding what’s actually worth fixing, then working with engineers to simplify and automate workflows, often around reporting and internal tools, so teams aren’t stuck babysitting brittle manual processes.
 
-Outside work: lifelong rock climber, 3D hobbyist, and a Google Sheets loyalist.
+Outside of work, I build small projects in Google Sheets, climb, and tinker with 3D stuff.
 
 ## Contact Details
 
