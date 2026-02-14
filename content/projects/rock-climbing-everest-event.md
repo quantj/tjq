@@ -1,7 +1,7 @@
 # Side Project: Rock Climbing Everest Event
 ## Tracking and Gamifying a 30-Day Rock Climbing Competition
 
-![Rock Climbing App Screenshot](content/projects/rock-climbing-everest-event-pic.png)
+[Rock Climbing App Screenshot](https://raw.githubusercontent.com/quantj/tjq/refs/heads/main/content/projects/rock-climbing-everest-event-pic.png)
 
 **Role:** Solo Creator (Design & Development)  
 **Year:** 2025
