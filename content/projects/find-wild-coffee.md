@@ -1,6 +1,8 @@
 # Find Wild Coffee
 ## Mapping Montreal's Independent Cafe Scene
 
+![Find Wild Coffee Screenshot](https://raw.githubusercontent.com/quantj/tjq/refs/heads/main/content/projects/find-wild-coffee-pic.png)
+
 **Project Type:** Side Project | **Role:** Solo Creator (Design & Development) | **Year:** 2025
 
 ---
